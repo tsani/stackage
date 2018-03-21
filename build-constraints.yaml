@@ -3297,7 +3297,6 @@ packages:
         - list-t < 0 # build failure with GHC 8.4 # https://github.com/nikita-volkov/list-t/issues/12
         - n-tuple < 0 # build failure with GHC 8.4 https://github.com/athanclark/n-tuple/issues/1
         - pagerduty < 0 # build failure with GHC 8.4 https://github.com/brendanhay/pagerduty/issues/10
-        - pipes-concurrency < 0 # build failure with GHC 8.4 https://github.com/Gabriel439/Haskell-Pipes-Concurrency-Library/issues/47
         - rainbow < 0 # build failure with GHC 8.4 https://github.com/massysett/rainbow/issues/6
         - reroute < 0 # build faiulre with GHC 8.4 https://github.com/agrafix/Spock/issues/140
         - riak < 0 # build failure with GHC 8.4 https://github.com/riak-haskell-client/riak-haskell-client/issues/105
